@@ -1,0 +1,26 @@
+ProductID,ProductName,UnitPrice,SupplierID,CategoryName,suppliername,avgpricepersupplier
+3,Aniseed Syrup,10.0,1,Condiments,Exotic Liquids,10.0
+66,Louisiana Hot Spiced Okra,17.0,2,Condiments,New Orleans Cajun Delights,20.34999990463257
+65,Louisiana Fiery Hot Pepper Sauce,21.05,2,Condiments,New Orleans Cajun Delights,20.34999990463257
+5,Chef Anton's Gumbo Mix,21.35,2,Condiments,New Orleans Cajun Delights,20.34999990463257
+4,Chef Anton's Cajun Seasoning,22.0,2,Condiments,New Orleans Cajun Delights,20.34999990463257
+8,Northwoods Cranberry Sauce,40.0,3,Condiments,Grandma Kelly's Homestead,32.5
+6,Grandma's Boysenberry Spread,25.0,3,Condiments,Grandma Kelly's Homestead,32.5
+15,Genen Shouyu,13.0,6,Condiments,Mayumi's,13.0
+63,Vegie-spread,43.9,7,Condiments,"Pavlova, Ltd.",30.67500114440918
+16,Pavlova,17.45,7,Confections,"Pavlova, Ltd.",30.67500114440918
+68,Scottish Longbreads,12.5,8,Confections,"Specialty Biscuits, Ltd.",28.174999952316284
+21,Sir Rodney's Scones,10.0,8,Confections,"Specialty Biscuits, Ltd.",28.174999952316284
+20,Sir Rodney's Marmalade,81.0,8,Confections,"Specialty Biscuits, Ltd.",28.174999952316284
+19,Teatime Chocolate Biscuits,9.2,8,Confections,"Specialty Biscuits, Ltd.",28.174999952316284
+27,Schoggi Schokolade,43.9,11,Confections,Heli Süßwaren GmbH & Co. KG,29.71000035603841
+26,Gumbär Gummibärchen,31.23,11,Confections,Heli Süßwaren GmbH & Co. KG,29.71000035603841
+25,NuNuCa Nuß-Nougat-Creme,14.0,11,Confections,Heli Süßwaren GmbH & Co. KG,29.71000035603841
+77,Original Frankfurter grüne Soße,13.0,12,Condiments,Plutzer Lebensmittelgroßmärkte AG,13.0
+44,Gula Malacca,19.45,20,Condiments,Leka Trading,19.450000762939453
+48,Chocolade,12.75,22,Confections,Zaanse Snoepfabriek,11.125
+47,Zaanse koeken,9.5,22,Confections,Zaanse Snoepfabriek,11.125
+50,Valkoinen suklaa,16.25,23,Confections,Karkki Oy,18.125
+49,Maxilaku,20.0,23,Confections,Karkki Oy,18.125
+62,Tarte au sucre,49.3,29,Confections,Forêts d'érables,38.89999961853027
+61,Sirop d'érable,28.5,29,Condiments,Forêts d'érables,38.89999961853027
