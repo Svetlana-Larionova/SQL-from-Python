@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="9908968b-ae6c-4081-96ec-15f931fa65bf" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/SQL-from-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SQL-from-Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/task4.py" afterDir="false" />
     </list>
+=======
+    <list default="true" id="9908968b-ae6c-4081-96ec-15f931fa65bf" name="Changes" comment="" />
+>>>>>>> d74ab300b6cd67eac31261e0aff9f6533a029ce2
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -37,6 +42,11 @@
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
+=======
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+>>>>>>> d74ab300b6cd67eac31261e0aff9f6533a029ce2
   <component name="ProjectId" id="35WAB1ElxMn0EUG7deCLzw4G8TF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,10 +55,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+<<<<<<< HEAD
     "Python.task4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
+=======
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+>>>>>>> d74ab300b6cd67eac31261e0aff9f6533a029ce2
   }
 }]]></component>
   <component name="SharedIndexes">
